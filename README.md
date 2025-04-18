@@ -14,9 +14,12 @@ I aim to change that with this project. I am not going to use motivation or exci
 
 
 #### Outlining what I want to build...
-I want to use the concept of user stories to flash out what this tool will do. I find that when a product is built from the perspective of the user it is usually friendly to that most of the other users. I am building this tool for Raymond Mawina, so I need to understand what he needs this tool for. I want to build the tool that is unpolished and has no bells and whistles, those might come later if needed. 
+I want to use the concept of user stories to flash out what this tool will do. I find that when a product is built from the perspective of the user it is usually friendly to that most of the other users. I am building this tool for Raymond Mawina, so I need to understand what he needs this tool for. 
 
 Here is an article on user stories: [user stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+
+I want to build the tool that is unpolished and has no bells and whistles, those might come later if needed. 
+
 
 ##### My user story epics and underlying user stories for this tool:
 
