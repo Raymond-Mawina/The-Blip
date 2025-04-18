@@ -1,5 +1,5 @@
 ## The-Blip
-### A little tool idea that I've been putting off forever. I am hoping this will help me with organizing different tasks I get busy with throughout my time as a swe. 
+### A little tool idea that I've been putting off for a while. I am hoping this will help me with organizing different tasks I get busy with throughout my time as a swe. 
 <br>
 
 #### Disclaimer
