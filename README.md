@@ -1,5 +1,5 @@
 ## The-Blip
-### A little tool idea that I've been putting off forever. I hoping this will help me with organizing different tasks I get busy with throughout my time as a swe. 
+### A little tool idea that I've been putting off forever. I am hoping this will help me with organizing different tasks I get busy with throughout my time as a swe. 
 <br>
 
 #### Disclaimer
@@ -43,4 +43,5 @@ Here is an article on user stories: [user stories](https://www.mountaingoatsoftw
     - [ ] 2. As a site user I want to be able to add/edit a tasks title, descriptions, and links in the isolated view and want to be able to save these changes.
     - [ ] 3. As a site user I want to be able to delete the task through pressing a button, which will bring up a pop-up asking if I am sure I want to perform the destructive action.
     - [ ] 4. As a site user I want to be able to categorize tasks based on whose task it is (work or personal). priority(1 or 2 or 3) where 1 is the most prioritized, and I want the post recently and highly prioritized tasks to appear at the top of their respective columns.
+
 
