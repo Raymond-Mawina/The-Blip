@@ -14,21 +14,11 @@ I aim to change that with this project. I am not going to use motivation or exci
 
 
 #### Outlining what I want to build...
-I want to use the concept of user stories to flash out what this tool will do. I find that when a product is built from the perspective of the user it is usually friendly to that most of the other users. I am building this tool for Raymond Mawina, so I need to understand what he needs this tool for. 
+I want to use the concept of user stories to flash out what this tool will do. I find that when a product is built from the perspective of the user it is usually friendly to that most of the other users. I am building this tool for Raymond Mawina, so I need to understand what he needs this tool for. I want to build the tool that is unpolished and has no bells and whistles, those might come later if needed. 
 
 Here is an article on user stories: [user stories](https://www.mountaingoatsoftware.com/agile/user-stories)
 
 ##### My user story epics and underlying user stories for this tool:
-
-- [ ] **Epic: The site user can sign up, sign in and sign out.** 
-   - [ ] 1. As a site user I want to be able to create an account/sign up.
-   - [ ] 2. As a site user I want to sign in using my credentials.
-   - [ ] 3. As a site user I want to be able to sign out when signed in, and redirected to the sign-in page. 
-
-- [ ] **Epic: The site user can view their profile.** 
-   - [ ] 1. As a site user I want to be able to add/change my personal github account.
-   - [ ] 2. As a site user I want to be able to add/change my work github account.
-   - [ ] 3. As a site user I want to be able to add/change my contact info(email, mobile).
 
 - [ ] **Epic: The site user can view their task kanban/sprint board.** 
     - [ ] 1. As a site user I want to be able to view my task board, which will have the columns: backlog, in_progress, review, review_feedback, complete.
@@ -43,5 +33,15 @@ Here is an article on user stories: [user stories](https://www.mountaingoatsoftw
     - [ ] 2. As a site user I want to be able to add/edit a tasks title, descriptions, and links in the isolated view and want to be able to save these changes.
     - [ ] 3. As a site user I want to be able to delete the task through pressing a button, which will bring up a pop-up asking if I am sure I want to perform the destructive action.
     - [ ] 4. As a site user I want to be able to categorize tasks based on whose task it is (work or personal). priority(1 or 2 or 3) where 1 is the most prioritized, and I want the post recently and highly prioritized tasks to appear at the top of their respective columns.
+
+- [ ] **Epic: The site user can sign up, sign in and sign out.** 
+   - [ ] 1. As a site user I want to be able to create an account/sign up.
+   - [ ] 2. As a site user I want to sign in using my credentials.
+   - [ ] 3. As a site user I want to be able to sign out when signed in, and redirected to the sign-in page. 
+
+- [ ] **Epic: The site user can view their profile.** 
+   - [ ] 1. As a site user I want to be able to add/change my personal github account.
+   - [ ] 2. As a site user I want to be able to add/change my work github account.
+   - [ ] 3. As a site user I want to be able to add/change my contact info(email, mobile).
 
 
