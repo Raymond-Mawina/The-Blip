@@ -5,7 +5,7 @@
 #### Disclaimer
 I am software developer with roughly 2 years of work experience, so I am going to fail a lot when building this tool, but I hope to learn a lot of skills while working on this. I am not good at technical writing as I've never written a professional technical document before, so I am going read a book or two about technical writing during the span of this project, hopefully I will become better.
 
-My goal is to always be better than I was yesterday, learning through falling and getting back up. I want this project to show that even though I am noob or whatever, I am diligent, dedicated and have the curiosity of knowing different thing and trying them out.
+My goal is to always be better than I was yesterday, learning through falling and getting back up. I want this project to show that even though I am noob or whatever, I am diligent, dedicated and have the curiosity of learning different thing and trying them out by building stuff.
 
 #### A little Intro
 Whenever I start working on a new project, I get the urge to spring right into writing the code and never seem to care about mapping out the project idea and making sure it is atleast partially/fully flashed out. This is a habit that has followed me in my young career as software developer. Usually what happens is that life happens, and I get busy with something else more urgent and somehow forget what I wanted to build and need that project was going to solve/fulfill.
